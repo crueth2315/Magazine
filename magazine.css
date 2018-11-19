@@ -1,0 +1,39 @@
+@charset "utf-8";
+#Heading {
+	border-color: #FF0004;
+	border-style: hidden;
+	background-color: #FF0004;
+	width: 800px;
+	right: auto;
+	margin: auto;
+
+}
+body p img {
+	display: block;
+	float: right;
+	margin-top: 1px;
+	height: 400px;
+	width: 665px;
+}
+p {
+	display: block;
+	margin: auto;
+
+
+	width: 43%
+%
+; 		width: 43%;
+}
+
+
+h1 {
+	text-align: center;
+}
+body p img {
+	width: auto;
+	margin-right: 78px;
+
+
+
+
+}
